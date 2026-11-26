@@ -1,0 +1,6 @@
+{
+  "name": "RideMate",
+  "description": "RideMate – Campus Carpool Partner Matching System for university students to share rides and commute costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
